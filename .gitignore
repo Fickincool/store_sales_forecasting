@@ -1,6 +1,8 @@
 # data folder
 data/
 
+scipts/logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
